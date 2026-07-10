@@ -25,7 +25,8 @@ public:
      }
     vector<int> rightSideView(TreeNode* root) {
         vector<int>ans;
-        sol(root,ans,0);
+        int lv=0;
+        sol(root,ans,lv);
         return ans;
     }
 };
