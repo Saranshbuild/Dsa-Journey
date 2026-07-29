@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0199-binary-tree-right-side-view) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
