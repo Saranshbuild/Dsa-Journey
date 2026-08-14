@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
