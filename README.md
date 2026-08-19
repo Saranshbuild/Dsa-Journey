@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
