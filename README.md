@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -92,16 +93,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
 ## Linked List
 |  |
 | ------- |
