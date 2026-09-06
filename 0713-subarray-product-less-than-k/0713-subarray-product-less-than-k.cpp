@@ -6,7 +6,7 @@ public:
         int product = 1;
         int ans = 0;
         int n = nums.size();
-        if (k <= 1) return 0;
+        if (k<=1) return 0;
         while(high<n){
             product*=nums[high];
 
