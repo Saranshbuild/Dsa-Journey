@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0509-fibonacci-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Saranshbuild/Dsa-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saranshbuild/Dsa-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Saranshbuild/Dsa-Journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
